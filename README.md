@@ -4,4 +4,10 @@ https://colleenyoung.wordpress.com/2015/09/20/long-division-multiplication-forma
 
 
 
-![Image of Yaktocat](https://github.com/fireacid/math-multiples/blob/master/nc-long-multiplication.jpg)
+![Image of hello](https://github.com/fireacid/math-multiples/blob/master/nc-long-multiplication.jpg)
+
+
+
+
+
+![snapshot](https://github.com/fireacid/math-multiples/blob/master/Screenshot%20(154).png)
